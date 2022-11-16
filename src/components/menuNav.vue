@@ -12,7 +12,7 @@
             <p>News</p>
         </router-link>
 
-        <router-link to="/" exact>
+        <router-link  exact>
             <i class="uil uil-question-circle"></i>
             <p>Help</p>
         </router-link>
